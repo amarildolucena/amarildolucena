@@ -1,9 +1,12 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+<h1 align="center">
+📄<br>Amarildo Lucena
+</h1>
 
-<h2>Hello World ☕</h2>
-
-<p>Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.</p>
-
+<p>Programador com mais de 20 anos de experiência. Já trabalhei com linguagens como Delphi, Java, C#. <br /> 
+  Estudos autodidáticos com React, ReacNative. <br /> 
+  Professor nos cursos de Análise e Desenvolvimento de Sistemas e Sistemas de Informações.</p>
+  Fui professor também em cursoa técnicos na Área de TI, assim como, ministrei disciplinas de TI nos cursos de Administração, Ciências Contábeis, Serviço Social, Logística e Educação Física. <br />
+  
 </br>
 
 <h3>Caso queira conhecer minha carreira profissional:</h3> 
@@ -22,20 +25,18 @@
   </a>
 </div>
 
-<h1 align="center">
-📄<br>Amarildo Lucena
-</h1>
+
 
 ## Selecione o README que deseja usar (To Update)
 
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/amarildolucena/readme-template/tree/main/profile)
+[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/amarildolucena/readme-template/blob/main/repository)
 
 
 ## Recursos para o README (To Update)
 
-[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/amarildolucena/readme-template/blob/main/cards-stats/cards-stats.md)
+[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/amarildolucena/readme-template/blob/main/badges/badges.md)
 
 ---
 
