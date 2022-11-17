@@ -4,35 +4,54 @@
 
 <h3>
   <p>Programador com mais de 20 anos de experiência e Professor de Ensino Superior.  </p>
+  <p>Especialista em Sistemas de Embarcados p/ IoT, Gestão de Pessoas e Mestre em Informática Aplicada.  </p>
 </h3>
 
 </br>
 
-# :hammer: Experiência como Desenvolvedor
+## :hammer: Experiência como Desenvolvedor
 
-- `Experiência profissional com as linguagens:` <h4> Delphi, Java, C# </h4>
-- `Estudos autodidáticos com as linguagens:` <h4> React, ReacNative, NodeJS, C++ </h4>
+<h4>Experiência profissional com as linguagens:</h4>
 
-# :hammer: Experiência como Professor
+- `Delphi`
+- `Java`
+- `C#`
 
-- `Ensino Superior:` <h4> Sistemas de Informação, Administração, Ciências Contábeis, Serviço Social, Logística e Educação Física. </h4> 
-- `Cursos Técnicos:` <h4> Análise e Desenvolvimento de Sistemas, Tecnologia da Informação, Redes de Computadores. </h4> 
+<h4>Estudos autodidáticos com as linguagens</h4>
+
+- `React`
+- `reactNative`
+- `NodeJS`
+- `C++`
+
+</br>
+
+## ✔️ Experiência como Professor
+
+<h4>Ensino Superior:</h4>
+
+- `Sistemas de Informação`
+- `Administração`
+- `Ciências Contábeis`
+- `Serviço Social`
+- `Logística`
+
+<h4>Cursos Técnicos:</h4>
+
+- `Análise e Desenvolvimento de Sistemas`
+- `Tecnologia da Informação`
+- `Redes de Computadores`
 
 
-
-<h3>Caso queira conhecer minha carreira profissional:</h3> 
+<h3>Caso queira conhecer detalhes da minha carreira profissional:</h3> 
 
 <div align="left">
   <a href="http://lattes.cnpq.br/5704719287804501" alt="CNPq">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CNPq&message=Currículo Lates&color=blue"/>
   </a>
   
   <a href="https://www.linkedin.com/in/amarildolucena" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
 
@@ -58,3 +77,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 ## 🍜 Licença (To Update)
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+
