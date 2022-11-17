@@ -3,14 +3,20 @@
 </h1>
 
 <h3>
-<p>Programador com mais de 20 anos de experiência. Já trabalhei com linguagens como Delphi, Java, C#. <br /> 
-  Estudos autodidáticos com React, ReacNative, NodeJS. </p>
+<p>Programador com mais de 20 anos de experiência.  <br /> 
+  Experiência profissional com as linguagens: Delphi, Java, C#. <br /> 
+  Estudos autodidáticos com as linguagens: React, ReacNative, NodeJS, C++. </p>
   
 <p>
   Professor nos cursos de Análise e Desenvolvimento de Sistemas e Sistemas de Informações. <br />
   Fui professor também em cursos técnicos na Área de TI, assim como, ministrei disciplinas de TI nos cursos de Administração, Ciências Contábeis, Serviço Social, Logística e Educação Física. <br />
 </h3>
 </br>
+
+# :hammer: Experiência como Desenvolvedor
+
+- `Experiência profissional com as linguagens`: Delphi, Java, C#
+
 
 <h3>Caso queira conhecer minha carreira profissional:</h3> 
 
