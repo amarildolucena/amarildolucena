@@ -3,7 +3,7 @@
 </h1>
 
 <h3>
-  <p>Professor de ensino superior e Programador com mais de 20 anos de experiência.  </p>
+  <p>Programador com mais de 20 anos de experiência e Professor de Ensino Superior.  </p>
 </h3>
 
 </br>
