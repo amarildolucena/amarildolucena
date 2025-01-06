@@ -20,7 +20,7 @@
 <h4>Estudos autodidáticos com as linguagens</h4>
 
 - `React`
-- `reactNative`
+- `ReactNative`
 - `NodeJS`
 - `C++`
 
