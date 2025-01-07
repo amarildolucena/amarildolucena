@@ -17,12 +17,16 @@
 - `Java`
 - `C#`
 
+<h4>Experiência acadêmica com as linguagens:</h4>
+
+- `Python`
+- `C++`
+
 <h4>Estudos autodidáticos com as linguagens</h4>
 
 - `React`
 - `ReactNative`
 - `NodeJS`
-- `C++`
 
 </br>
 
